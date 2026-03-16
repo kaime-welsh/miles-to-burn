@@ -1,5 +1,4 @@
 local push = require "lib.push"
-local suit = require "lib.suit"
 
 GameState = require "state"
 GameWidth, GameHeight = 480, 270
@@ -12,6 +11,7 @@ function love.load()
 end
 
 function love.update(dt)
+  require("lib.lurker").update()
   GameState:current():update(dt)
 end
 
