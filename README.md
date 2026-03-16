@@ -45,3 +45,10 @@ After a certain amount of miles the world shifts and gets more difficult.
   - Tags begin to "stack", i.e. what used to require just [Heat] now requires [Heat]x2
     - Crafting system should allow combining items of the same "tier" to create heigher tier items
   - At the end of every milestone a boss event is reached, these bosses will temporarily break the rules, i.e., [Electronic] items played are destroyed.
+
+## Resources used
+### Libraries
+- [SUIT](https://github.com/vrld/SUIT)
+- [PUSH](https://github.com/Ulydev/push)
+### Assets
+- [Micro Chat 5x5 font](https://v3x3d.itch.io/micro-chat)
